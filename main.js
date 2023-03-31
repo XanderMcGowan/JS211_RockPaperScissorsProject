@@ -32,6 +32,7 @@ const rockPaperScissors = (hand1, hand2) => {
 
     return "Hand two wins!"
 
+    // code passes test
 
 }
 
